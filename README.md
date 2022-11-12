@@ -4,8 +4,8 @@
 - Full stack developer in progress:
 
   - [x]  Web developer :smile:
-  - [ ]  JavaScript 👋
-  - [ ]  React  👀
+  - [x]  JavaScript 👋
+  - [x]  React  👀
   - [ ]  Backend 🌱
  
  - Born in CoderHouse......
